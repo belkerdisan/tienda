@@ -1,0 +1,50 @@
+body {
+    height: 100vh;right: 
+  
+  }
+  
+   p2{
+          font-size: 20px;
+                color: rgb(2, 2, 2);
+                }
+   p3{
+          font-size: 20px;
+          color: rgb(8, 8, 8);
+  
+                }
+  p4{
+          font-size:20px;
+          color: rgb(10, 10, 10);
+  }
+  p5{
+  font-size:20px;
+  color: rgb(12, 12, 12);
+  }
+  a {
+        background-color:rgb(17, 34, 15) ;
+        text-decoration: none;
+        color: #131212;
+        background-color: #f7fcfc;
+        padding: 10px 20px;
+        border-radius: 5px;
+        font-weight: bold;
+      }
+      h1{
+        background-image: url(../img/bosque.jpg);
+  padding: 100px;
+  width: 100%; 
+  text-shadow: 20px 15px 7px black;
+  font-family: 'Oswald', sans-serif;
+        font-size: 1000%;
+        font-weight: 800;
+        color: white     
+      }
+.navbar{
+        background-color: #337a81;
+        text-decoration: none;
+        color: #eeeeee;
+        margin: auto;
+        padding: 0.5% 0.5%;
+  border-radius: 0.5%;
+        font-weight: bold;
+}            
